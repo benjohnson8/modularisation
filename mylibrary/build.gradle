@@ -45,7 +45,7 @@ publishing {
     publications {
         release(MavenPublication) {
             groupId = 'com.github.benjohnson8'
-            artifactId = 'com.benjohnson.mylibrary'
+            artifactId = 'modularisation'
             version = '0.0.1'
 
             afterEvaluate {
